@@ -7,21 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="seminar_2" />
-        <module name="sem3exampl1" />
-        <module name="seminar_1" />
-        <module name="task_3" />
-        <module name="Exam2Sem2" />
-        <module name="sq-ch8-ex6" />
         <module name="demo" />
-        <module name="Example2Seminar4" />
-        <module name="sem3HomeTask" />
-        <module name="sem3example2REST" />
-        <module name="Exam4Sem2" />
-        <module name="sq-ch9-ex3" />
-        <module name="Exam3Sem2" />
-        <module name="Exam1Sem2" />
-        <module name="Example1Seminar4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
