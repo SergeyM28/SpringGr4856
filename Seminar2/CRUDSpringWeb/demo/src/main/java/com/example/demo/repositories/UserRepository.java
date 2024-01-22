@@ -36,6 +36,9 @@ public class UserRepository {
         return  user;
     }
 
-    //public void deleteById(int id)
+    public void deleteById(int id){
+        String sql = "DELETE FROM userTable WHERE id=?";
+        jdbc.update(sql, id);
+    }
     //"DELETE FROM userTable WHERE id=?"
 }
